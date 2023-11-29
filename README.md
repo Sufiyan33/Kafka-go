@@ -6,4 +6,4 @@ Overall, Kafka is primarily used to build real-time streaming data pipelines and
 # Connet to Kafka
 let’s get started to run Kafka in go programming language, first of all here’s the step that you need to do:
 
-- ##Setup Docker Compose
+- ## Setup Docker Compose
