@@ -48,6 +48,9 @@ letâ€™s get started to run Kafka in go programming language, first of all hereâ€
         depends_on:
           - zookeeper
     ```
+    - once instance are running then it looks like below :
+      <img width="1007" alt="Screenshot 2023-11-29 at 8 00 17â€¯PM" src="https://github.com/Sufiyan33/Kafka-go/assets/133976350/300b5491-741e-474d-9b0d-3243faf895b4">
+
 2. ### Create module
    - initialize your module based on the project struct, you can use below command:
    ```
@@ -91,6 +94,6 @@ letâ€™s get started to run Kafka in go programming language, first of all hereâ€
    - Run in seprate terminal.
   
 6. ### Congratulation
-   - Now you connected your go application with Apache kafka.
+   - Now you have connected your go application with Apache kafka.
    - If you liked it then follow me.
     
